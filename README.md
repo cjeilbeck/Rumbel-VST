@@ -2,7 +2,7 @@
 
 # Rumbel Audio Plugin
 
-Rumbel is an open-source audio plugin offering customizable distortion effects with a minimalist interface, prioritizing ease of workflow and an emphasis on mixing by ear.
+Rumbel is an open-source audio plugin offering customizable distortion effects with a minimalist interface, prioritizing ease of workflow and mixing by ear (0_0).
 
 
 ## Getting Started
